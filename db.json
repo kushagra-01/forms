@@ -1,0 +1,40 @@
+{
+  "formdata": [
+    {
+      "username": "kushagra",
+      "age": "20",
+      "address": "bhata",
+      "department": "Teacher",
+      "salary": "22",
+      "martial_status": "mingle",
+      "id": 1
+    },
+    {
+      "username": "priyanshu",
+      "age": "5",
+      "address": "chandmar",
+      "department": "",
+      "salary": "00",
+      "martial_status": "single",
+      "id": 2
+    },
+    {
+      "username": "kushagra",
+      "age": "12",
+      "address": "k@k.com",
+      "department": "IA",
+      "salary": "23334",
+      "martial_status": "mingle",
+      "id": 3
+    },
+    {
+      "username": "rohit",
+      "age": "12",
+      "address": "nhs",
+      "department": "Teacher",
+      "salary": "89",
+      "martial_status": "mingle",
+      "id": 4
+    }
+  ]
+}
